@@ -1,0 +1,38 @@
+MID,MName,MEffects,MPrice
+M00001,Acetaminophen,"treat mild to moderate pain, treat moderate to severe pain in conjunction with opiates, reduce fever",60
+M00002,Adderall,treat narcolepsy and attention deficit hyperactivity disorder (ADHD),80
+M00003,Alprazolam,"treat anxiety disorders, panic disorders, and anxiety caused by depression",80
+M00004,Amitriptyline,treat symptoms of depression,40
+M00005,Amlodipine,treat high blood pressure(hypertension),10
+M00006,Amoxicillin,treat many different types of infectioncaused by bacteria,70
+M00007,Ativan,treat anxiety disorders,10
+M00008,Atorvastatin,"treat high cholesterol, and to lower the risk of stroke, heart attack, or other heart complications",30
+M00009,Azithromycin,treat many different types of infections caused by bacteria,80
+M00010,Ciprofloxacin,treat people who have been exposed to anthrax or certain types of plague,100
+M00011,Citalopram,treat depression,60
+M00012,Clindamycin,treat serious infections caused by bacteria.,50
+M00013,Clonazepam,treat certain seizure disorders in adults and children,30
+M00014,Cyclobenzaprine,treat skeletal muscle conditions such as pain or injury.,60
+M00015,Cymbalta,treat general anxiety disorder in adults and children who are at least 7 years old,50
+M00016,Doxycycline,treat many different bacterial infections,60
+M00017,Gabapentin,treat neuropathic pain (nerve pain) caused by herpes virus or shingles (herpes zoster),60
+M00018,Hydrochlorothiazide,treat high blood pressure(hypertension),10
+M00019,Ibuprofen,reduce fever and treat pain or inflammation,30
+M00020,Lexapro,treat anxiety in adults,50
+M00021,Lisinopril,treat high blood pressure (hypertension) in adults and children who are at least 6 years old,30
+M00022,Loratadine,"treat sneezing, runny nose, watery eyes, hives, skin rash, itching, and other cold or allergy symptoms",10
+M00023,Lorazepam,treat anxiety disorders and seizure disorders,30
+M00024,Losartan,"treat high blood pressure (hypertension), lower the risk of stroke",60
+M00025,Lyrica,"treat pain caused by fibromyalgia, or nerve pain in people with diabetes, herpes zoster, or spinal cord injury",40
+M00026,Meloxicam,treat pain or inflammation caused by rheumatoid arthritis and osteoarthritis in adults,80
+M00027,Metformin,used together with diet and exercise to improve blood sugar control,40
+M00028,Metoprolol,treat angina (chest pain) and hypertension (high blood pressure),50
+M00029,Naproxen,treat pain or inflammation,70
+M00030,Oxycodone,treat moderate to severe pain,20
+M00031,Pantoprazole,treat erosive esophagitis,70
+M00032,Prednisone,anti-inflammatory or immunosuppressant medication,10
+M00033,Tramadol,treat moderate to severe pain in adults,40
+M00034,Trazodone,treat major depressive disorder,90
+M00035,Viagra,treat erectile dysfunction (impotence) in men,30
+M00036,Wellbutrin,treat major depressive disorder and seasonal affective disorder,50
+M00037,Zoloft,"treat depression, obsessive-compulsive disorder, panic disorder, anxiety disorders, PTSD and PMDD",20
