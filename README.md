@@ -1,3 +1,11 @@
+## Updates
+- [10:30pm 29-05-19]: Data in 3 tables `INPATIENT`, `TREATMENT` and `Uses_Treat` was wrong. You can delete all data in these 3 tables and import again. To delete data in these tables:
+```
+DELETE FROM Uses_TREAT;
+DELETE FROM TREATMENT;
+DELETE FROM INPATIENT;
+```
+
 ## Note
 If you have create all foreign keys, importing will result in error.
 
