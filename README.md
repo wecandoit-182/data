@@ -19,7 +19,7 @@ ALTER TABLE DEPARTMENT
 * Step 1: Click on the table on the left panel.
 ![screenshot](https://github.com/wecandoit-182/data/blob/master/screenshot/Step01.JPG)
 * Step 2: Click on `Actions... -> Import Data`.
-![screenshot](https://github.com/wecandoit-182/data/blob/master/screenshot/Step02.JPG)
+![screenshot](https://github.com/wecandoit-182/data/blob/master/screenshot/Step02.jpg)
 * Step 3: Click on `Browse` and choose the `.csv` file.
-![screenshot](https://github.com/wecandoit-182/data/blob/master/screenshot/Step03.JPG)
+![screenshot](https://github.com/wecandoit-182/data/blob/master/screenshot/Step03.jpg)
 * Step 4: Click on `Next` until the end and click `Finish`.
